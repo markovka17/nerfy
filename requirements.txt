@@ -1,0 +1,7 @@
+torch==1.7.1
+torchvision==0.8.1
+pytorch3d==0.4.0
+kornia==0.4.1
+imageio==2.9.0
+av==8.0.0
+# imageio-ffmpeg
